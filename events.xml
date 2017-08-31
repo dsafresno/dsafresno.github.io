@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title>DSA Fresno Events Feed</title>
+  <link href="https://dsafresno.org/"/>
+  <updated>2017-08-30T14:33:01-07:00</updated>
+  <author>
+    <name>DSA Fresno</name>
+  </author>
+  <id>https://dsafresno.org/events.xml</id>
+
+  <entry>
+    <title>Test Post</title>
+    <id>https://dsafresno.org/events.html#1</id>
+    <updated>2017-08-30T14:33:01-07:00</updated>
+  </entry>
+</feed>
+
+  
